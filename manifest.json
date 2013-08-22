@@ -1,0 +1,14 @@
+{
+    "name":             "Gmail labels fixed position",
+    "version":          "1.0",
+    "manifest_version": 2,
+    "icons": {
+        "48": "icon48.png",
+        "128": "icon128.png"
+    },
+    "description":      "Transform Gmail labels into a fixed bar as if they were glued on.",
+    "content_scripts": [ {
+        "matches":      ["*://*.mail.google.com/*"],
+        "css":          ["default.css"]
+    } ]
+}
