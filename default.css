@@ -7,8 +7,9 @@
     -webkit-border-radius: 2px !important;
     border-radius: 2px !important;
     border: 1px solid #dcdcdc !important;
+    min-height: 50px;
 }
 
-.aeH {
-    margin-top: 50px !important;
+.toggleClass .aeH {
+    margin-top: 55px !important;
 }
