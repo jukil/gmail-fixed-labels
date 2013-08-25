@@ -12,6 +12,10 @@ Chrome extension to transform Gmail labels into a fixed bar as if they were glue
 
 # Changelog
 
+**1.3**
+
+- Added margin to search page too
+
 **1.2**
 
 - Exclude margin-top setting for inbox page and only apply for message pages
