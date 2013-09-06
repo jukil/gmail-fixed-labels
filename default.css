@@ -10,10 +10,15 @@
     min-height: 50px;
 }
 
-.toggleClass .aeH {
+.nM {
+    z-index: 9999 !important;
+    background-color: white !important;
+}
+
+.toggleClassaeH .aeH {
     margin-top: 55px !important;
 }
 
-.iH {
+.toggleClassiH .iH {
     margin-top: 55px !important;
 }
