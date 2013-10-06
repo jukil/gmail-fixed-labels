@@ -56,7 +56,7 @@
         var init = function() {
 
             // get the main gmail container
-            $mailContainer = document.querySelector('.AO');
+            $mailContainer = document.querySelector('.nH nn');
 
             // reposition the widget when the page resizes
             window.addEventListener('resize', position);
