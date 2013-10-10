@@ -12,6 +12,10 @@ Chrome extension to transform Gmail labels into a fixed bar as if they were glue
 
 # Changelog
 
+**1.7**
+
+- Reverted changes from 1.6. They are not working correctly.
+
 **1.6**
 
 - Fixed wrong positioning after sending a message due to targeting multiple containers with same class name

@@ -1,6 +1,6 @@
 {
     "name":             "Gmail labels fixed position",
-    "version":          "1.6",
+    "version":          "1.7",
     "manifest_version": 2,
     "icons": {
         "48": "icon48.png",
