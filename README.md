@@ -12,6 +12,12 @@ Chrome extension to transform Gmail labels into a fixed bar as if they were glue
 
 # Changelog
 
+**1.8**
+
+- Fixed missing margin for #all pages
+- Added min-width setting for the label bar
+- Increased the margin to avoid overlapping with the "The label has been removed from the conversation" information box.
+
 **1.7**
 
 - Reverted changes from 1.6. They are not working correctly.
