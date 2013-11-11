@@ -16,6 +16,11 @@
         } else {
             document.documentElement.classList.remove('toggleClassiH');
         }
+        if (/^#search\/.*/.test(location.hash)) {
+            document.documentElement.classList.add('toggleClassiH');
+        } else {
+            document.documentElement.classList.remove('toggleClassiH');
+        }
     };
 
     window.addEventListener('hashchange', hashCheck);
