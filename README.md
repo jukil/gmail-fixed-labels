@@ -1,16 +1,20 @@
 gmail-fixed-labels
 ==================
 
-Chrome extension to transform Gmail labels into a fixed bar as if they were glued on.
+Chrome extension to make Gmail labels stick to the top as if they were glued on.
 
 # Screenshot 
-![](images/screenshot-fixed-labels.png)
+![](images/screenshot-1280-800.png)
 
 # Download
 
 [Chrome Webstore](https://chrome.google.com/webstore/detail/oaiihlknofchdhnonldnhcejeleciooh)
 
 # Changelog
+
+**2.0**
+
+- Add margin to #sent pages
 
 **1.9**
 
