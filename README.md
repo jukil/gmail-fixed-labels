@@ -12,6 +12,11 @@ Chrome extension to make Gmail labels stick to the top as if they were glued on.
 
 # Changelog
 
+**2.1**
+
+- Fixed issue with wrong toggle class for #search pages
+- Removed overlapping with sidebar menu by increasing z-index
+
 **2.0**
 
 - Add margin to #sent pages
