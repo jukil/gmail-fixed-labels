@@ -12,6 +12,10 @@ Chrome extension to make Gmail labels stick to the top as if they were glued on.
 
 # Changelog
 
+**2.2**
+
+- Reverted hashcheck settings back to 2.1
+
 **2.1**
 
 - Fixed issue with wrong toggle class for #search pages
