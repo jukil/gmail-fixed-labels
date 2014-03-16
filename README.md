@@ -1,4 +1,4 @@
-gmail-fixed-labels
+Fixed Gmail Labels
 ==================
 
 Chrome extension to make Gmail labels stick to the top as if they were glued on.
@@ -11,6 +11,16 @@ Chrome extension to make Gmail labels stick to the top as if they were glued on.
 [Chrome Webstore](https://chrome.google.com/webstore/detail/oaiihlknofchdhnonldnhcejeleciooh)
 
 # Changelog
+
+**2.4**
+
+- Simplified regex expression to match all URLs except inbox
+
+**2.3**
+
+- Renamed extension to comply with new Webstore policy
+- Added #spam to the URLs covered by the extension
+- Tried to fix issue with #search URL
 
 **2.2**
 

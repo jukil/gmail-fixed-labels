@@ -1,30 +1,10 @@
 (function(){
 
     function hashCheck() {
-        if (/^#inbox\/.*/.test(location.hash)) {
+        if (/^#([^\s]+)\/.*/.test(location.hash)) {
             document.documentElement.classList.add('toggleClassaeH');
         } else {
             document.documentElement.classList.remove('toggleClassaeH');
-        }
-        if (/^#search\/.*/.test(location.hash)) {
-            document.documentElement.classList.add('toggleClassiH');
-        } else {
-            document.documentElement.classList.remove('toggleClassiH');
-        }
-        if (/^#all\/.*/.test(location.hash)) {
-            document.documentElement.classList.add('toggleClassiH');
-        } else {
-            document.documentElement.classList.remove('toggleClassiH');
-        }
-        if (/^#search\/.*/.test(location.hash)) {
-            document.documentElement.classList.add('toggleClassiH');
-        } else {
-            document.documentElement.classList.remove('toggleClassiH');
-        }
-        if (/^#sent\/.*/.test(location.hash)) {
-            document.documentElement.classList.add('toggleClassiH');
-        } else {
-            document.documentElement.classList.remove('toggleClassiH');
         }
     };
 
