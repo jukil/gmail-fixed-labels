@@ -12,6 +12,10 @@ Chrome extension to make Gmail labels stick to the top as if they were glued on.
 
 # Changelog
 
+**2.4.1**
+
+- Added exception for #drafts
+
 **2.4**
 
 - Simplified regex expression to match all URLs except inbox

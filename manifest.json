@@ -1,6 +1,6 @@
 {
     "name":             "Fixed Gmail Labels",
-    "version":          "2.4",
+    "version":          "2.4.1",
     "manifest_version": 2,
     "icons": {
         "48": "icon48.png",

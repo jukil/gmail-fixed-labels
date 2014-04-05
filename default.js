@@ -6,6 +6,9 @@
         } else {
             document.documentElement.classList.remove('toggleClassaeH');
         }
+        if (/^#drafts\/.*/.test(location.hash)) {
+            document.documentElement.classList.remove('toggleClassaeH');
+        }
     };
 
     window.addEventListener('hashchange', hashCheck);
